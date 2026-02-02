@@ -31,7 +31,7 @@ On Xbox Series consoles, Quick Resume allows you to jump between games exactly w
 
 ## 📸 Demo
 
-![Overlay Screenshot](screenshot.png)
+![Overlay Screenshot](assets/screenshot.png)
 
 ---
 
